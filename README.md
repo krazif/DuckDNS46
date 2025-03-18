@@ -1,4 +1,4 @@
-Simply chmod the script and execute it.
+Simply chmod the script and execute it. \n
 $ chmod 777 DuckDNS46.sh
 $ ./DuckDNS46.sh
 
